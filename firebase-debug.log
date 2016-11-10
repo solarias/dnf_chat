@@ -12,3 +12,31 @@
 [info] Public Directory: ./
 [info] 
 [info] Server listening at: http://localhost:5000
+[debug] ----------------------------------------------------------------------
+[debug] Command:      D:\Program Files\nodejs\node.exe C:\Users\ansew\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] CLI Version:  3.1.0
+[debug] Platform:     win32
+[debug] Node Version: v4.4.1
+[debug] Time:         Thu Nov 10 2016 23:03:15 GMT+0900 (대한민국 표준시)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: D:\사용자\My Project\Git Project\dnf_chat
+[info] Public Directory: ./
+[info] 
+[info] Server listening at: http://localhost:5000
+[debug] ----------------------------------------------------------------------
+[debug] Command:      D:\Program Files\nodejs\node.exe C:\Users\ansew\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] CLI Version:  3.1.0
+[debug] Platform:     win32
+[debug] Node Version: v4.4.1
+[debug] Time:         Thu Nov 10 2016 23:15:33 GMT+0900 (대한민국 표준시)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: D:\사용자\My Project\Git Project\dnf_chat
+[info] Public Directory: ./
+[info] 
+[info] Server listening at: http://localhost:5000
