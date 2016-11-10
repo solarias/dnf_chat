@@ -278,7 +278,8 @@ FriendlyChat.prototype.checkSetup = function() {
 window.onload = function() {
     var bgm = new Howl({
         src:"./sound/behemoth.ogg",
-        volume:0.2
+        volume:0.2,
+        loop:true
     })
     bgm.play();
 
